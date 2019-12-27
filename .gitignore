@@ -1,0 +1,10 @@
+# composer
+/vendor/**
+# cache
+/cache/**
+# environment
+.env
+# other
+/resources/**
+/fonts/**
+/cover.png

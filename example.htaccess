@@ -1,0 +1,6 @@
+<Files *.htaccess> 
+  deny from all 
+</Files>
+<Files *.env> 
+  deny from all 
+</Files>
