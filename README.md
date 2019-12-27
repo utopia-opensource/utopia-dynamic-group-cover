@@ -3,6 +3,8 @@
 
 Dynamic cover for a group on Vkontakte social network with Utopia Network statistics.
 
+![screenshot](https://github.com/Sagleft/utopia-dynamic-group-cover/raw/master/img/screenshot.jpg)
+
 ## Installation
 
 ```bash
