@@ -21,3 +21,6 @@ download `akrobat.ttf` font and place it in `fonts/`
 ```bash
 php updateCover.php
 ```
+
+---
+[![udocs](https://github.com/Sagleft/ures/blob/master/udocs-btn.png?raw=true)](https://udocs.gitbook.io/utopia-api/)
